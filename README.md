@@ -25,7 +25,5 @@ Predict Passenger Survival based on  feature measurments of the titanic dataset.
 <!--- [numpy](https://www.numpy.org/)-->
 - [seaborn](https://seaborn.pydata.org/)
 
-#### Resources:
 
-- [Scikit Learn knn classification](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
 
